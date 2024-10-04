@@ -41,7 +41,7 @@ def findMin(i, j, array):
     return min(min1, min2, min3)
 
 
-# answer should be 1
+# answer should be
 arr1 = [3, 2, 1, 4, 10, 6, 9, 8, 12, -10, -3.5]
 # midIndex1 = round(0 + len(arr1)/3)
 # midIndex2 = len(arr1) - midIndex1
